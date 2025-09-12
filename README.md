@@ -26,9 +26,3 @@ Example:
 
   If your helm chart repo URL `is https://release.daocloud.io/chartrepo/community/dao-2048`
   you can add one line to mirror.yaml : `dao-2048: https://release.daocloud.io/chartrepo/community`
-
-## [友情链接]加速三剑客
-
-* 镜像加速：https://github.com/DaoCloud/public-image-mirror
-* 二进制文件加速：https://github.com/DaoCloud/public-binary-files-mirror
-* Helm 加速：https://github.com/DaoCloud/public-helm-charts-mirror
